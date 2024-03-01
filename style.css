@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: yellow;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 200px;
+  color: green;
+  font-size: 100px;
+  font-weight: 900;
+  font-style: italic;
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    
+}
